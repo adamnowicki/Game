@@ -1,5 +1,7 @@
 # **_Escape or Die_**
 
+![Alt text](https://github.com/DarceeAnne/Game/raw/main/excape%20or%20die%20slide%201.png)
+
 Introduction
 
 Welcome to "Escape or Die! This is a text-based adventure game where your objective is to escape from a mysterious house. You find yourself trapped inside a house with no windows, and you must navigate through various rooms, solve puzzles, and find keys to unlock doors to finally escape. But be cautious, danger lurks in unexpected corners!
@@ -33,3 +35,5 @@ Your ultimate goal is to escape the house successfully.
 This game was developed by The Powerpuff & Pr. Utonium
 
 Enjoy your escape adventure, and may luck be on your side!
+
+![Alt text](https://github.com/DarceeAnne/Game/raw/main/excape%20or%20die%20slide.png)
