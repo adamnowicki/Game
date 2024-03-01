@@ -1,6 +1,6 @@
 # **_Escape or Die_**
 
-![Alt text]([https://github.com/DarceeAnne/Game/raw/main/images/excape%20or%20die%20slide%201.png](https://github.com/adamnowicki/Game/blob/0c7846a5f79bc2bc2ddd426fd2d8bd8faf027bc7/images/excape%20or%20die%20slide%201.png))
+![Alt text](https://github.com/adamnowicki/Game/blob/0c7846a5f79bc2bc2ddd426fd2d8bd8faf027bc7/images/excape%20or%20die%20slide%201.png)
 
 Introduction
 
