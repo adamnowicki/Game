@@ -36,4 +36,6 @@ This game was developed by The Powerpuff & Pr. Utonium
 
 Enjoy your escape adventure, and may luck be on your side!
 
-![Alt text](https://raw.githubusercontent.com/DarceeAnne/Game/main/images/excape%20or%20die%20slide%202.png)
+![Alt text](https://github.com/adamnowicki/Game/blob/main/images/excape%20or%20die%20slide%202.png)
+
+
