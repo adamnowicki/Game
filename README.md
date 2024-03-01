@@ -1,5 +1,4 @@
-**Escape or Die - README
-**
+# **_Escape or Die_**
 
 Introduction
 
