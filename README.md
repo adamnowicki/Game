@@ -1,5 +1,6 @@
-**Escape or Die - README
-**
+# **_Escape or Die_**
+
+![Alt text](https://github.com/DarceeAnne/Game/raw/main/excape%20or%20die%20slide%201.png)
 
 Introduction
 
@@ -34,3 +35,5 @@ Your ultimate goal is to escape the house successfully.
 This game was developed by The Powerpuff & Pr. Utonium
 
 Enjoy your escape adventure, and may luck be on your side!
+
+![Alt text](https://raw.githubusercontent.com/DarceeAnne/Game/main/excape%20or%20die%20slide%202.png)
