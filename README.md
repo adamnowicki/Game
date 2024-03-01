@@ -8,7 +8,7 @@ Welcome to "Escape or Die! This is a text-based adventure game where your object
 
 **How to Play:**
 
-- Run the Python script provide  **(Notebook 1.ipynb)**.
+- Run the Python script provide  **(Game.py)**.
 - Follow the instructions displayed in the console.
 - Explore the rooms, examine items, and solve riddles to progress.
 - Collect keys to unlock doors and move to new rooms.
