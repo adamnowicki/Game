@@ -1,6 +1,6 @@
 # **_Escape or Die_**
 
-![Alt text](https://github.com/DarceeAnne/Game/raw/main/excape%20or%20die%20slide%201.png)
+![Alt text](https://github.com/DarceeAnne/Game/raw/main/images/excape%20or%20die%20slide%201.png)
 
 Introduction
 
@@ -36,4 +36,4 @@ This game was developed by The Powerpuff & Pr. Utonium
 
 Enjoy your escape adventure, and may luck be on your side!
 
-![Alt text](https://raw.githubusercontent.com/DarceeAnne/Game/main/excape%20or%20die%20slide%202.png)
+![Alt text](https://raw.githubusercontent.com/DarceeAnne/Game/main/images/excape%20or%20die%20slide%202.png)
